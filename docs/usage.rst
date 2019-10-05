@@ -13,7 +13,7 @@ Etiam tempor orci eu lobortis elementum nibh tellus molestie. Neque egestas cong
 .. raw:: html
 
     <script src="//cdn.jsdelivr.net/npm/medium-editor@latest/dist/js/medium-editor.min.js"></script>
-    <script src="//cdn.jsdelivr.net/gh/metatooling/medium-button/src/medium-button.js"></script>
+
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/medium-editor@latest/dist/css/medium-editor.min.css" type="text/css" media="screen" charset="utf-8">
 
     <script>
