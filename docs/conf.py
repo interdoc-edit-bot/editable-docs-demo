@@ -42,6 +42,11 @@ on_rtd = os.environ.get("READTHEDOCS", None) == "True"
 if not on_rtd:  # only set the theme if we"re building docs locally
     html_theme = "sphinx_rtd_theme"
 
+html_static_path = ["_static"]
+
+html_js_files = ["js/hello.js"]
+html_css_files = ["css/medium-editor.css", "css/themes/default.css"]
+
 html_use_smartypants = True
 html_last_updated_fmt = "%b %d, %Y"
 html_split_index = False
