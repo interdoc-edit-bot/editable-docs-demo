@@ -28,7 +28,7 @@ explains:
 
 These sound like important benefits of using Google Docs. But I want to write
 my docs in a markup language because it's much more powerful. So my ideal
-documentation system would have several features.
+documentation system would have several features:
 
 * Maintainers can write docs in a powerful markup language.
 * Users can edit the docs in-line as they're reading, without needing to log in
