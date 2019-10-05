@@ -1,4 +1,3 @@
-
 from click.testing import CliRunner
 
 from editable_docs_demo.cli import main

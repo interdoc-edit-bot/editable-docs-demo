@@ -10,5 +10,6 @@ Why does this file exist, and why __main__? For more info, read:
 """
 import editable_docs_demo.cli
 
+
 if __name__ == "__main__":
     editable_docs_demo.cli.cli()

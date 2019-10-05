@@ -18,6 +18,7 @@ import click
 
 from editable_docs_demo import app
 
+
 @click.command()
 def cli(**kwargs):
     app.main(**kwargs)
