@@ -8,7 +8,7 @@ readme = "README.rst"
 [tool.poetry.dependencies]
 python = "^3.7"
 click = "7.0"
-attrs = "19.1.0"
+
 
 
 [tool.poetry.dev-dependencies]
@@ -46,12 +46,6 @@ docs = [
 
 [tool.poetry.scripts]
 editable_docs_demo = "editable_docs_demo.cli:cli"
-
-
-[build-system]
-requires = ["poetry>=0.12"]
-build-backend = "poetry.masonry.api"
-
 
 
 [tool.towncrier]
@@ -101,3 +95,6 @@ exclude = '''
   | dist
 )/
 '''
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
