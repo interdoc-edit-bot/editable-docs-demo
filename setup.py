@@ -12,7 +12,7 @@ extras_require = {
     "docs": [
         "sphinx",
         "sphinx-rtd-theme",
-        "sphinxcontrib-editable>=0.0.5",
+        "sphinxcontrib-editable>=0.0.6",
     ]
 }
 
