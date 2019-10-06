@@ -39,9 +39,9 @@ documentation system would have several features:
   comments. This is still a missing piece.)
 
 This library demos no-login editing capability for Sphinx docs.
-
-Edit this page by clicking on the text and then see your pull request `on
-GitHub <https://github.com/orange-aardvark/editable-docs-demo/pulls>`__.
+* Edit this page by clicking on the text.
+* See your pull request `on GitHub
+<https://github.com/orange-aardvark/editable-docs-demo/pulls>`__.
 
 
 
