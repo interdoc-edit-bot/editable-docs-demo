@@ -2,11 +2,11 @@
 Usage
 =====
 
-
+Features:
 
 * Edit this page by clicking on the text.
 * See your pull request `on GitHub
-<https://github.com/orange-aardvark/editable-docs-demo/pulls>`__.
+  <https://github.com/orange-aardvark/editable-docs-demo/pulls>`__.
 
 
 
