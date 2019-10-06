@@ -8,6 +8,7 @@ readme = "README.rst"
 [tool.poetry.dependencies]
 python = "^3.7"
 click = "7.0"
+sphinxcontrib-editable = "^0.0.1"
 
 
 
