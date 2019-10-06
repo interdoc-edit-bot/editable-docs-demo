@@ -12,10 +12,6 @@ extras_require = {
     "docs": [
         "sphinx",
         "sphinx-rtd-theme",
-        "sphinx-autodoc-typehints",
-        "sphinx-click",
-        "marshmallow-jsonschema",
-        "sphinx-jsonschema",
         "sphinxcontrib-editable",
     ]
 }
