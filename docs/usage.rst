@@ -2,10 +2,9 @@
 Usage
 =====
 
-* Edit this page by clicking on the text.
-* See your pull request `on GitHub
-  <https://github.com/orange-aardvark/editable-docs-demo/pulls>`__.
-* Visit `sphinxcontrib-editable <https://github.com/metatooling/sphinxcontrib-editable>`__ to add these features to your own docs.
+See your pull request `on
+GitHub <https://github.com/orange-aardvark/editable-docs-demo/pulls>`__.
+
 
 
 Example text - Try editing!
