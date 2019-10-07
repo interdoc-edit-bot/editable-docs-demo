@@ -1,1 +1,1 @@
-.. include:: ../README.rst
+https://editable_docs_demo.readthedocs.io/
