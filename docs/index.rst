@@ -7,7 +7,8 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   readme
+Fruit soup
+
 
 
 Indices and tables
