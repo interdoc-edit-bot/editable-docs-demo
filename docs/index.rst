@@ -1,3 +1,5 @@
+.. include:: usage.rst
+
 ========
 Contents
 ========
@@ -6,7 +8,7 @@ Contents
    :maxdepth: 2
 
    readme
-   usage
+
 
 Indices and tables
 ==================
