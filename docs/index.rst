@@ -47,6 +47,4 @@ Contents
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+`Module Index <py-modindex.html>`__
