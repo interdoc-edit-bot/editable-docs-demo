@@ -47,6 +47,4 @@ Contents
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+`Index <genindex.html>`__
