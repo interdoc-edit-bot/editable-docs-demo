@@ -2,11 +2,9 @@
 Usage
 =====
 
-* Edit this page by clicking on the text. Select some text to get a rich-text toolbar for
-  adding bold, underline, etc.
-* See your `pull request on GitHub
-  <https://github.com/orange-aardvark/editable-docs-demo/pulls>`__.
-* To add these features to your own docs, visit `sphinxcontrib-editable <https://github.com/metatooling/sphinxcontrib-editable>`__ .
+See youd'd'dr `pull request on
+GitHub <https://github.com/orange-aardvark/editable-docs-demo/pulls>`__.
+
 
 
 Example text - Try editing!
